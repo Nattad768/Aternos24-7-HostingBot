@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "xZelox",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "scokiyismp8.aternos.me",
+    "ip": "cokiyismp8.aternos.me",
     "port": 31957,
     "version": "",
     "try-creative": false
